@@ -1,3 +1,4 @@
 [submodule "pages"]
 	path = pages
-	url = https://github.com/YunoHost/doc.git
+	url = https://github.com/tituspijean/doc.git
+	branch = grav
